@@ -1,0 +1,1 @@
+deepspeed --num_nodes 1 --num_gpus 4 --master_port 12345 test_gpt.py
